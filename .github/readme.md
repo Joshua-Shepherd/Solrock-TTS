@@ -1,0 +1,1 @@
+This is a public fork of the Solrock-TTS by Matt Donk. This fork is intended to be a community project to improve the original project. The original project can be found here: https://github.com/mmattDonk/AI-TTS-Donations
